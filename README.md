@@ -1,16 +1,27 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Post-Punk Song Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Resolvi fazer uma música usando ferramentas de IA, aproveitando a onda e as polêmicas de artistas e bandas virtuais totalmente feito por IAs, principalmente pela banda The Velvet Sundown. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+MiniMax Audio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Peguei uma letra de uma música de autoria própria e tentei fazer uma sonoridade bem próxima as partituras que também escrevi.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+### Positivos
+A inteligência artificial conseguiu entender certas nuâncias da letra escrita: 
+- Qual era o trecho que eu assinalei como refrão e a parte que eu peço para repeti-lo duas vezes.
+- Trechos nas linhas entre parenteses representavam um vocal secundário
+
+### Negativos
+Pronúncia errada de algumas palavras em português
+Uso do português euroupeu, mesmo frizando que gostaria de algo em português do Brasil
+O instrumental ficou bem repetitivo, não consegui aplicar os arranjos que fiz
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Não sei se devido a minha falta de conhecimento ou as limitações dos agentes gratuitos, mas acredito que ainda estamos bem longe da criação de música natty.
+As IAs não forneram para mim um grande controle e personalização no processo.
